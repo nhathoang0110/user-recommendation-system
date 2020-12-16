@@ -7,5 +7,5 @@ File convert_split_data.ipynb thực hiện convert và chia tập train test ch
 ####
 File Louvain_and_label_propagation.ipynb thực hiện thuật toán Louvain và label propagation.
 ####
-File LinkPrediction.ipynb thực hiện thuật toán Link Predictio.
+File LinkPrediction.ipynb thực hiện thuật toán Link Prediction.
 ###
